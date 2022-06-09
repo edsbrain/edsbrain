@@ -8,6 +8,21 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=edsbrain&label=Profile%20views&color=0e75b6&style=flat" alt="edsbrain" /> </p>
 
 <h2>About Me</h2>
+<h5>Who am I?👀</h5>
+<p>🔷Full Stack Developer oriented to the Back-end with knowledge of Front-end technologies with the ability to carry out scalable and modularizable web projects.</p>
+
+<h5>Because I? 🤷‍♂️ </h5>
+<p>🔷As each of the developers in this great community we are capable of great technical skills in terms of handling new technologies, however, with me you will get a developer with great analysis skills in projects and curiosity to find the optimal solution for challenges that arise, always willing to constantly teach and learn.</p>
+
+<h5>My work history✌️</h5>
+<p>🔷My experience has been mainly in the academic field, for 3 years I worked as a student of Information Systems (ISIL) where I learned knowledge of information technologies (IT), algorithms, development and business intelligence among others.</p>
+<p>🔷Currently I was attending the Henry bootcamp, where I was able to learn new concepts and technical skills, as well as team development with social skills.</p>
+
+<h5>Do you want to know more about me? Contact me! 🤳</h5>
+<ul>
+  <li>📱WhatsApp: +51923397471</li>
+  <li>📧Email: edsonbrian1@gmail.com</li>
+  </ul>
 
 
 <h2 align="left">Languages and Tools:</h2>
