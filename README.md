@@ -2,9 +2,7 @@
 
 
 <h1> Hey! Edson Dongo here!</h1>
-<p align="center"><img src="https://user-images.githubusercontent.com/39139697/172786893-8b567043-ff6f-431a-83f6-cc93d2f155af.gif" border="0" alt="computadora-y-ordenador-imagen-animada-0192" /></p>
-
-
+<p align="center"><img src="https://user-images.githubusercontent.com/39139697/172789224-247b6906-603e-4a77-a3a8-56c4766756be.gif" border="0" alt="computadora-y-ordenador-imagen-animada-0192" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edsbrain&label=Profile%20views&color=0e75b6&style=flat" alt="edsbrain" /> </p>
